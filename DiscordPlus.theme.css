@@ -42,9 +42,9 @@
 .theme-light {
   --dplus-backdrop: url(https://i.imgur.com/0I0w9Q9.jpeg);
   
-  --dplus-accent-color-hue: 320;
-  --dplus-accent-color-saturation: 60%;
-  --dplus-accent-color-lightness: 31%;
+  --dplus-accent-color-hue: 121;
+  --dplus-accent-color-saturation: 100%;
+  --dplus-accent-color-lightness: 34%;
   
   --dplus-foreground-color-hue-base: 210;
   --dplus-foreground-color-hue-links: 197;
@@ -68,7 +68,7 @@
 Set avatar/server radius to 50% to make them circular.
    UI radius must be in pixels, otherwise things break. */
   --dplus-radius-ui: 10px;
-  --dplus-radius-avatar: 20%;
+  --dplus-radius-avatar: 50%;
   --dplus-radius-server: 20%;
 
 /* This decides how much breathing room there should be between things like buttons and content. */
